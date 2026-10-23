@@ -1,0 +1,1 @@
+A Java-based project demonstrating Spring Framework Dependency Injection (DI) and Inversion of Control (IoC) concepts. This project explores how Spring manages objects (beans) and injects dependencies to achieve loose coupling, better code maintainability, and modular application design.
